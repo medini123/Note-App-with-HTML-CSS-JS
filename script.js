@@ -66,7 +66,7 @@ addBtn.addEventListener("click", (e)=>{
     }
 
 
-    console.log(notes)
+   
 })
 
 
